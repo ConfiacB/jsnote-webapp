@@ -1,6 +1,6 @@
 {
   "name": "@jsnote-webapp/local-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "files": [
     "dist"
@@ -28,5 +28,5 @@
     "express": "^4.18.1",
     "http-proxy-middleware": "^2.0.6"
   },
-  "gitHead": "7668287e0b04fd6825dd35d16ad9d6f776c02160"
+  "gitHead": "22997c50286ee9207098f437807893387177a905"
 }

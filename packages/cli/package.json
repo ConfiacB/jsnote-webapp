@@ -1,6 +1,6 @@
 {
   "name": "jsnote-webapp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -26,5 +26,5 @@
     "esbuild": "0.8.26",
     "typescript": "^4.8.4"
   },
-  "gitHead": "7668287e0b04fd6825dd35d16ad9d6f776c02160"
+  "gitHead": "22997c50286ee9207098f437807893387177a905"
 }
