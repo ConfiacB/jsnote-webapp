@@ -1,6 +1,6 @@
 {
   "name": "jsnote-webapp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,14 +17,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-webapp/local-client": "^1.0.3"
+    "@jsnote-webapp/local-client": "^1.0.4"
   },
   "devDependencies": {
-    "@jsnote-webapp/local-api": "^1.0.3",
+    "@jsnote-webapp/local-api": "^1.0.4",
     "@types/node": "^18.8.2",
     "commander": "^9.4.1",
     "esbuild": "0.8.26",
     "typescript": "^4.8.4"
   },
-  "gitHead": "45905015dbe9b0e24a0218b91465dbd4c7861f45"
+  "gitHead": "9b0e90d10c256f962e78f6f437ca5ff59ee4282b"
 }

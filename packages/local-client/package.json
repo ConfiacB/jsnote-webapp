@@ -1,6 +1,6 @@
 {
   "name": "@jsnote-webapp/local-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publishConfig": {
     "access": "public"
   },
@@ -16,7 +16,7 @@
     "@types/jest": "^26.0.19",
     "@types/jscodeshift": "0.7.2",
     "@types/node": "^12.19.11",
-    "@types/prettier": "^2.7.0",
+    "@types/prettier": "2.2.1",
     "@types/react": "^16.14.2",
     "@types/react-dom": "^16.9.10",
     "@types/react-redux": "7.1.15",
@@ -30,7 +30,7 @@
     "localforage": "^1.9.0",
     "monaco-editor": "0.34.0",
     "monaco-jsx-highlighter": "0.0.15",
-    "prettier": "2.3.0",
+    "prettier": "2.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-redux": "7.2.2",
@@ -66,5 +66,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "45905015dbe9b0e24a0218b91465dbd4c7861f45"
+  "gitHead": "9b0e90d10c256f962e78f6f437ca5ff59ee4282b"
 }
