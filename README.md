@@ -4,7 +4,7 @@ This is an interactive coding environment. You can write Javascript, see it exec
 
 ## command line
 
-npx jsnote-webapp serve <namefile>
+npx jsnote-webapp serve namefile
 
 ### How it works
 
